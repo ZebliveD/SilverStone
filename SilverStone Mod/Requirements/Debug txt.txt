@@ -1,0 +1,3 @@
+cd Requirements
+pause>nul
+start Debug.bat
